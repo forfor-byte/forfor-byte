@@ -22,14 +22,21 @@
 
 #### 🚀 精选项目
 
+**🤖 AI 视觉应用与全栈落地**
+
 | 项目 | 一句话说明 | 技术亮点 |
 | :--- | :--- | :--- |
-| **[multi-camera-intrusion-detection](https://github.com/forfor-byte/multi-camera-intrusion-detection)** | 多路摄像头并发接入的超界入侵检测系统 | YOLOv8 + Flask + OpenCV；**多线程拆分** 摄像头读取、模型推理与 Web 响应，降低视频流阻塞；多边形警戒区 + 白名单过滤，降低误报 |
-| **[pedestrian-vehicle-tracking](https://github.com/forfor-byte/pedestrian-vehicle-tracking)** | 高精度行人车辆检测与追踪，支持多输入源 | YOLOv8 + Tkinter + OpenCV；**追踪 ID 分配** 与目标数量实时统计；检测数据支撑结果核验与效果评估 |
-| **[rice-disease-ai](https://github.com/forfor-byte/rice-disease-ai)** | 带 GUI 的水稻病害智能识别系统 | YOLO + Tkinter；识别 **白叶枯病、稻瘟病、褐斑病、枯草病** 等类别；置信度与耗时指标双向回显，便于算法效果核验 |
+| **[multi-camera-intrusion-detection](https://github.com/forfor-byte/multi-camera-intrusion-detection)** | 多路摄像头并发接入的超界入侵检测系统 | YOLOv8 + Flask + OpenCV；**多线程拆分**读取与推理；多边形警戒区 + 白名单过滤降低误报 |
+| **[pedestrian-vehicle-tracking](https://github.com/forfor-byte/pedestrian-vehicle-tracking)** | 高精度行人车辆检测与追踪，支持多输入源 | YOLOv8 + Tkinter；**追踪 ID 分配**与实时统计；检测数据支撑结果核验 |
+| **[rice-disease-ai](https://github.com/forfor-byte/rice-disease-ai)** | 带 GUI 的水稻病害智能识别系统 | YOLO + Tkinter；多类别病害识别；置信度与耗时指标双向回显 |
 
-> 每一个项目都附有完整的 README：**截图/GIF 演示、环境配置、运行命令、效果数据**。不只有代码，更有“怎么用”和“效果如何”。
+<br/>
 
+**🖥️ 前端工程化与数据可视化实践**
+
+| 项目 | 一句话说明 | 技术亮点 |
+| :--- | :--- | :--- |
+| **[vue3-library-dashboard](https://github.com/forfor-byte/vue3-book-management-system)** *(建议改个更帅的仓库名)* | 基于 Vue3 的现代化数据看板与后台业务流转系统 | Vue3 + TS + Vite；覆盖借阅/读者/库存等完整业务闭环；**实现多维数据可视化（趋势/分类图表）**，并沉淀了高复用率的图表组件 |
 ---
 
 #### 🔭 当前探索（2025–2026）
