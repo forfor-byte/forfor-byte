@@ -36,7 +36,7 @@
 
 | 项目 | 一句话说明 | 技术亮点 |
 | :--- | :--- | :--- |
-| **[vue3-library-dashboard](https://github.com/forfor-byte/vue3-book-book-management-system)**  | 基于 Vue3 的现代化数据看板与后台业务流转系统 | Vue3 + TS + Vite；覆盖借阅/读者/库存等完整业务闭环；**实现多维数据可视化（趋势/分类图表）**，并沉淀了高复用率的图表组件 |
+| **[vue3-library-dashboard](https://github.com/forfor-byte/vue3-book-management-system)**  | 基于 Vue3 的现代化数据看板与后台业务流转系统 | Vue3 + TS + Vite；覆盖借阅/读者/库存等完整业务闭环；**实现多维数据可视化（趋势/分类图表）**，并沉淀了高复用率的图表组件 |
 ---
 
 #### 🔭 当前探索（2025–2026）
