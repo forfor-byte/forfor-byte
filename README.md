@@ -4,7 +4,7 @@
 
 - 🎯 正在寻找 **AI 产品全栈 / 前端研发** 方向的实习或全职机会。
 - 🧠 具备从 **需求拆解 → 产品方案 → 前后端交付** 的完整全栈能力，不止于“跑通模型”，更关注“能不能用”。
-- 🛠️ 后端熟练使用 **Python / Flask**，前端掌握 **Vue3 / TypeScript / Vite**，能独立完成页面布局、交互实现与数据可视化。
+- 🛠️ 后端熟练使用 **Python / Flask**，前端掌握 **Vue3 / JS/ Vite**，能独立完成页面布局、交互实现与数据可视化。
 - 🤖 正在实践 **RAG、Function Calling 与多 Agent 协作**，日常重度 **Cursor** 等 AI Coding 工具进行编码、重构与问题排查，并把关生成代码的质量。
 - ⚡ 学习快、自驱强、不设边界，习惯独立打事。
 
@@ -13,7 +13,7 @@
 #### 🧰 技术栈
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,pytorch,opencv,flask,mysql,html,css,js,ts,vue,vite,git,github&perline=7&titles=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,pytorch,opencv,flask,mysql,html,css,js,vue,vite,git,github&perline=7&titles=true" />
 </p>
 
 > 也会用：Tkinter / Pillow / NumPy / OpenCV / YOLOv8 / Cursor / OpenAI API / 通义千问 API
